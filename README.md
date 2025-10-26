@@ -33,8 +33,7 @@ No more endless walls of Visual Novels when you just wanted to see horror platfo
 
 ### 🦊 Firefox (permanent, advanced users)
 > Since newer Firefox versions, you unfortunately need **`Firefox Developer Edition`** to install unsigned extensions.
-You **can** install this permanently in regular Firefox,  
-but you'll need to disable Mozilla's signature requirement for add-ons.
+You'll need to disable Mozilla's signature requirement for add-ons.
 
 1. Go to `about:config`
 2. Search for `xpinstall.signatures.required`
