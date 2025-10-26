@@ -32,7 +32,7 @@ No more endless walls of Visual Novels when you just wanted to see horror platfo
 ---
 
 ### 🦊 Firefox (permanent, advanced users)
-
+> Since newer Firefox versions, you unfortunately need **`Firefox Developer Edition`** to install unsigned extensions.
 You **can** install this permanently in regular Firefox,  
 but you'll need to disable Mozilla's signature requirement for add-ons.
 
@@ -47,6 +47,7 @@ but you'll need to disable Mozilla's signature requirement for add-ons.
 Turning off signature verification lets Firefox install *any* unsigned extension :including potentially malicious ones.  
 Only do this if you understand the risk and trust the source of what you're installing.  
 If that sounds sketchy, use the **temporary load method** instead :it's safer.
+
 
 💡 **Note:**  
 An `.xpi` file is literally just a `.zip` archive.  
