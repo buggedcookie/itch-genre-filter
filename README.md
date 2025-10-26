@@ -40,7 +40,7 @@ but you'll need to disable Mozilla's signature requirement for add-ons.
 2. Search for `xpinstall.signatures.required`
 3. Set it to **false**
 4. Restart Firefox
-5. Download the latest `.xpi` file from the [Releases](/releases) section of this repo  
+5. Download the latest `.xpi` file from the [Releases](../../releases) section of this repo  
 6. Drag the file into Firefox and click **Add**
 
 ⚠️ **Important:**  
