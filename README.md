@@ -20,8 +20,9 @@ No more endless walls of Visual Novels when you just wanted to see horror platfo
 ---
 
 ## 🧩 Installation
+Visit : [https://addons.mozilla.org/en-CA/firefox/addon/itch-io-genre-filter/](https://addons.mozilla.org/en-CA/firefox/addon/itch-io-genre-filter/)
 
-### 🦊 Firefox (temporary, easiest)
+### 🦊 Firefox (temporary)
 1. Visit `about:debugging#/runtime/this-firefox`
 2. Click **"Load Temporary Add-on..."**
 3. Select `manifest.json` from this folder
@@ -31,7 +32,7 @@ No more endless walls of Visual Novels when you just wanted to see horror platfo
 
 ---
 
-### 🦊 Firefox (permanent, advanced users)
+### 🦊 Firefox Developer Edition
 > Since newer Firefox versions, you unfortunately need **`Firefox Developer Edition`** to install unsigned extensions.
 You'll need to disable Mozilla's signature requirement for add-ons.
 
@@ -43,7 +44,7 @@ You'll need to disable Mozilla's signature requirement for add-ons.
 6. Drag the file into Firefox and click **Add**
 
 ⚠️ **Important:**  
-Turning off signature verification lets Firefox install *any* unsigned extension :including potentially malicious ones.  
+Turning off signature verification lets Firefox install *any* unsigned extension: including potentially malicious ones.  
 Only do this if you understand the risk and trust the source of what you're installing.  
 If that sounds sketchy, use the **temporary load method** instead :it's safer.
 
